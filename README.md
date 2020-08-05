@@ -13,3 +13,12 @@ _Пример получения погоды через JSON:_
 
 ![Screenshot](screenshot2.png)
 
+![Screenshot](JSON_Formatter.png)
+
+![Screenshot](JSON_parsed.png)
+
+![Screenshot](JSON_raw.png)
+
+![Screenshot](JSON_Weather.png)
+
+![Screenshot](JSON_Weather2.png)
