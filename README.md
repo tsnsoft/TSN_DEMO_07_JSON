@@ -1,7 +1,7 @@
 # TSN_DEMO_07_JSON
 Технология JSON для работы с http
 
-Простейший пример работы с JSON
+_Простейший пример работы с JSON_
 
 ![Screenshot](screenshot1.png)
 
@@ -9,7 +9,7 @@
 
 ![Screenshot](json2.png)
 
-Пример получения погоды через JSON
+_Пример получения погоды через JSON_
 
 ![Screenshot](screenshot2.png)
 
