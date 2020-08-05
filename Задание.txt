@@ -1,0 +1,32 @@
+Технология JSON для работы с http
+
+	ВАРИАНТЫ ЗАДАНИЯ:
+
+1. Найти информацию  последнем обновленном репозитории proffix4:
+https://api.github.com/users/proffix4/repos
+
+2. Найти информацию о последнем обновленном программы Orix2016:
+https://api.github.com/repos/proffix4/Orix2016/commits
+
+3. Найти информацию о последнем релизе joplin:
+https://api.github.com/repos/laurent22/joplin/releases
+
+4. Найти информацию о последнем обсуждении joplin:
+https://api.github.com/repos/laurent22/joplin/issues
+
+5. Найти информацию о подписчиках на proffix4:
+https://api.github.com/users/proffix4/followers
+
+6. Найти информацию о тех, на кого подписан proffix4:
+https://api.github.com/users/proffix4/following
+
+7. Найти информацию о тех, кому поставил звезды proffix4:
+https://api.github.com/users/proffix4/starred
+
+-----------------
+8. https://api.post.kz/postal-services/?_ga=2.112022276.1492119823.1586412851-2110306927.1586412851
+9. https://tech.yandex.com/translate/
+10. http://ergast.com/api/f1/2019/1/results.json
+11. https://projects.propublica.org/nonprofits/api/v2/search.json?order=revenue&sort_order=desc
+12. http://api.nytimes.com/svc/search/v2/articlesearch.json?q=obamacare+socialism&api-key=b75da00e12d54774a2d362adddcc9bef
+13. https://cran.r-project.org/web/packages/jsonlite/vignettes/json-apis.html
