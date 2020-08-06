@@ -22,3 +22,5 @@ _Пример получения погоды через JSON:_
 ![Screenshot](JSON_Weather.png)
 
 ![Screenshot](JSON_Weather2.png)
+
+https://www.youtube.com/watch?v=PEy03NVgx4o

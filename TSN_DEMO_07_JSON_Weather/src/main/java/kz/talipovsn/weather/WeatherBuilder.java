@@ -16,6 +16,7 @@ public class WeatherBuilder {
         String BASE_URL = "http://api.openweathermap.org/data/2.5/weather?units=metric";
         String API = "52c336c8ceb8a6d8e4ee482985660291";
         String url = BASE_URL + "&q=" + location + "&lang=" + lang + "&appid=" + API;
+        //System.out.println(url);
         return getHTMLData(url);
     }
 
@@ -23,6 +24,7 @@ public class WeatherBuilder {
     private static Bitmap getWheaterImage(String code) {
         String IMG_URL = "http://openweathermap.org/img/w/";
         String url = IMG_URL + code + ".png";
+        //System.out.println(url);
         return getHTMLImage(url);
     }
 
