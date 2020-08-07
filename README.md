@@ -20,8 +20,6 @@ _Пример получения погоды через JSON:_
 
 ![Screenshot](JSON_raw.jpg)
 
-![Screenshot](JSON_Formatter.jpg)
-
 ![Screenshot](JSON_parsed.jpg)
 
 ![Screenshot](JSON_Icon.jpg)
