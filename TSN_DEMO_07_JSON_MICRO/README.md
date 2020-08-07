@@ -3,6 +3,10 @@
 
 ![Screenshot](screenshot1.png)
 
-![Screenshot](json.png)
+![Screenshot](json1.jpg)
 
-![Screenshot](json2.png)
+![Screenshot](json2.jpg)
+
+![Screenshot](json3.jpg)
+
+![Screenshot](json4.jpg)
