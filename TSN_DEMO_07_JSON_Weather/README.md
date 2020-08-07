@@ -3,9 +3,9 @@
 
 ![Screenshot](screenshot2.png)
 
-![Screenshot](JSON_Formatter.jpg)
-
 ![Screenshot](JSON_raw.jpg)
+
+![Screenshot](JSON_Formatter.jpg)
 
 ![Screenshot](JSON_parsed.jpg)
 
