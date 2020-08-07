@@ -5,22 +5,28 @@ _Простейший пример работы с JSON:_
 
 ![Screenshot](screenshot1.png)
 
-![Screenshot](json.png)
+![Screenshot](json1.jpg)
 
-![Screenshot](json2.png)
+![Screenshot](json2.jpg)
+
+![Screenshot](json3.jpg)
+
+![Screenshot](json4.jpg)
+
 
 _Пример получения погоды через JSON:_
 
 ![Screenshot](screenshot2.png)
 
-![Screenshot](JSON_Formatter.png)
+![Screenshot](JSON_raw.jpg)
 
-![Screenshot](JSON_parsed.png)
+![Screenshot](JSON_Formatter.jpg)
 
-![Screenshot](JSON_raw.png)
+![Screenshot](JSON_parsed.jpg)
 
-![Screenshot](JSON_Weather.png)
+![Screenshot](JSON_Icon.jpg)
 
-![Screenshot](JSON_Weather2.png)
+![Screenshot](JSON_Code.jpg)
+
 
 https://www.youtube.com/watch?v=PEy03NVgx4o
