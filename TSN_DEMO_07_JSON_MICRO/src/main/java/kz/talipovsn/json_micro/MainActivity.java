@@ -2,9 +2,8 @@ package kz.talipovsn.json_micro;
 
 import android.os.Bundle;
 import android.os.StrictMode;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
-import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.google.android.gms.common.GooglePlayServicesNotAvailableException;
@@ -24,8 +23,7 @@ import javax.net.ssl.SSLContext;
 
 public class MainActivity extends AppCompatActivity {
 
-    private ImageView imageView; // Иконка погоды
-    private TextView textView; // Компонент для данных погоды
+    private TextView textView; // Компонент для отображения данных
 
     String url = "https://api.coindesk.com/v1/bpi/currentprice.json"; // Адрес получения JSON - данных
 
