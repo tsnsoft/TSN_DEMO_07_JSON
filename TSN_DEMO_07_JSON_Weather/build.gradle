@@ -9,6 +9,7 @@ android {
         versionCode 4
         versionName "2025.03"
     }
+
     buildTypes {
         release {
             minifyEnabled true
