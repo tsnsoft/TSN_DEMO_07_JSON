@@ -7,7 +7,7 @@ android {
         minSdkVersion 24
         targetSdkVersion 35
         versionCode 4
-        versionName "2025.02"
+        versionName "2025.03"
     }
     buildTypes {
         release {
@@ -21,6 +21,6 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'androidx.appcompat:appcompat:1.7.0'
-    implementation 'androidx.constraintlayout:constraintlayout:2.2.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.2.1'
     implementation(platform("org.jetbrains.kotlin:kotlin-bom:1.8.22"))
 }

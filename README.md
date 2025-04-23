@@ -3,7 +3,7 @@
 
 _Простейший пример работы с JSON:_
 
-![Screenshot](screenshot1.png)
+![Screenshot](screenshot1.png)https://kazfin.info/kazakhstan
 
 ![Screenshot](json1.jpg)
 
