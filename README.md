@@ -3,8 +3,7 @@
 
 _Простейший пример работы с JSON:_
 
-![Screenshot](screenshot1.png)https://kazfin.info/kazakhstan
-
+![Screenshot](screenshot1.png)
 
 _Пример получения погоды через JSON:_
 
